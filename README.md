@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+@misc{playground-series-s3e16,
+    author = {Ashley Chow, inversion},
+    title = {Regression with a Crab Age Dataset},
+    publisher = {Kaggle},
+    year = {2023},
+    url = {https://kaggle.com/competitions/playground-series-s3e16}
+}
