@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=willrleao" alt="willrleao" /></a> </p>
 
-- 🔭 I’m currently working on [Kaggle](competitions)
-
 - 🌱 I’m currently learning **Pytorch**
 
 - 🤝 I’m looking for help with **Studying data science and direction is the most important thing.**
